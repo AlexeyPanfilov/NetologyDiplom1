@@ -1,6 +1,6 @@
 package ru.netology.graphics.image;
 
-import java.io.IOException;
+import  java.io.IOException;
 import java.net.MalformedURLException;
 
 public interface TextGraphicsConverter {

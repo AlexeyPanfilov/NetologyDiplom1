@@ -1,2 +1,6 @@
-out
-.idea
+/.idea/
+*.iml
+/out/
+/pics/
+*.txt
+*.png
